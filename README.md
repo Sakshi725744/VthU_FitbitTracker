@@ -1,7 +1,8 @@
 # VthU
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 
-A platform that keeps you safe on the go and can automatically send a distress call if you are in danger
+A platform that keeps you safe on the go and can automatically send a distress call if you are in danger<br>
+Devfolio Link: https://devfolio.co/submissions/vthuevery-step-of-the-way
 
 ## The problem it solves
 * VthU is a platform where a person's safety is monitored and is detected via fitness bands when they are in danger
