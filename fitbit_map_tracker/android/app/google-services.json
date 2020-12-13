@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "1029632925910",
+    "firebase_url": "https://mission14-5e3ef.firebaseio.com",
+    "project_id": "mission14-5e3ef",
+    "storage_bucket": "mission14-5e3ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029632925910:android:5fa4b20bd94bbd6864e977",
+        "android_client_info": {
+          "package_name": "com.example.firebasecountdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029632925910-j0k0klitti0bfgvp3jhbd634ap9hm9uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgCVxZRU_xC6sDu2xrtSl_114jeHuhQjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029632925910-j0k0klitti0bfgvp3jhbd634ap9hm9uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029632925910:android:96051e01a7c1f88564e977",
+        "android_client_info": {
+          "package_name": "com.example.fitbit_map_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029632925910-j0k0klitti0bfgvp3jhbd634ap9hm9uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgCVxZRU_xC6sDu2xrtSl_114jeHuhQjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029632925910-j0k0klitti0bfgvp3jhbd634ap9hm9uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029632925910:android:ea9336cb06c00bb464e977",
+        "android_client_info": {
+          "package_name": "com.example.fitbit_safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029632925910-j0k0klitti0bfgvp3jhbd634ap9hm9uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgCVxZRU_xC6sDu2xrtSl_114jeHuhQjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029632925910-j0k0klitti0bfgvp3jhbd634ap9hm9uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029632925910:android:ca518df1b42e961764e977",
+        "android_client_info": {
+          "package_name": "com.example.quarantine_blues"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029632925910-j0k0klitti0bfgvp3jhbd634ap9hm9uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgCVxZRU_xC6sDu2xrtSl_114jeHuhQjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029632925910-j0k0klitti0bfgvp3jhbd634ap9hm9uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
