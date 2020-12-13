@@ -11,10 +11,6 @@ Devfolio Link: https://devfolio.co/submissions/vthuevery-step-of-the-way
 * To prevent flase positives, a 15 second timer is initiated the moment it detects danger and the user can abort it if its a false alarm
 * It also is smart enough to distinguish if the high heartrate is due to exercise or an actual danger
 
-## Challenges we ran into
-
-
-
 ## User Interface
 ![image1](UI/splash_page.png)<br>
 ![image2](UI/profile.jpeg)
