@@ -16,7 +16,7 @@ Devfolio Link: https://devfolio.co/submissions/vthuevery-step-of-the-way
 
 
 ## User Interface
-![image1](UI/splash_page.jpeg)
+![image1](UI/splash_page.png)
 ![image2](UI/profile.jpeg)
 ![image3](UI/map.jpeg)
 ![image4](UI/implicitSOS.jpeg)
